@@ -8,6 +8,7 @@ hue,Hue,true,,
 location,Location
 latitude,Latitude
 longitude,Longitude
+medium,Medium,true,,
 source,Source
 identifier,Source Identifier,,
 type,Type,
